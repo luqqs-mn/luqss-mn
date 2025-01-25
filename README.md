@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Luqman</h1>
-<h3 align="center">Computer Science student at Universiti Teknologi Malaysia</h3>
+<h3 align="center">Year 1 Computer Science student at Universiti Teknologi Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqss-mn&label=Profile%20views&color=0e75b6&style=flat" alt="luqss-mn" /> </p>
 
